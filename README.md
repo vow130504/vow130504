@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+There!!!+👋;+I'm+Nguyen+Minh+Thien😽;+Nice+To+Meet+You😍" />
 </h1>
 
-<h3 align="center"> ❤️ A passionate Fullstack Developer from VietNam ❤️</h3>
+<h3 align="center"> ✨ A passionate Fullstack Developer from VietNam ✨</h3>
 
 <br/>
 
