@@ -10,8 +10,6 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **Yoca – Solana On-Chain Analytics Platform**
-
  ✍️ I'm currently studying at **University of Science**, **National University of Ho Chi Minh City**
 
  🌱 I’m currently learning **NestJS, System Design, Graph-based Anomaly Detection**
