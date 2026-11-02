@@ -62,6 +62,13 @@
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vow130504&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=vow130504&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
+  <div align="center">
+  <h2>📈 Contribution Graph 📈</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vow130504&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&area_color=61dafb&hide_border=true" width="100%" />
+</div>
+
+<br/>
+<hr/>
 </div>
 
 <br/><br/>
