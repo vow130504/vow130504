@@ -10,6 +10,8 @@
 
 <div align="center">
 
+ 🔭 I’m currently working on **Yoca – Solana On-Chain Analytics Platform**
+
  ✍️ I'm currently studying at **University of Science**, **National University of Ho Chi Minh City**
 
  🌱 I’m currently learning **NestJS, System Design, Graph-based Anomaly Detection**
@@ -59,16 +61,9 @@
   <h2 > ⚡ Stats ⚡ </h2>
   <div style="display: flex; justify-content: center;">
     <img height="150px" src="https://streak-stats.demolab.com/?user=vow130504&theme=react&border=61dafb&hide_border=true" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vow130504&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=vow130504&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img height="150px" src="https://raw.githubusercontent.com/vow130504/vow130504/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <img height="150px" src="https://raw.githubusercontent.com/vow130504/vow130504/main/profile-summary-card-output/tokyonight/3-stats.svg" />
   </div>
-  <div align="center">
-  <h2>📈 Contribution Graph 📈</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vow130504&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&area_color=61dafb&hide_border=true" width="100%" />
-</div>
-
-<br/>
-<hr/>
 </div>
 
 <br/><br/>
