@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vow130504.vow130504" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=61DAFB&lines=Hello+There!!!+👋;+I'm+Nguyen+Minh+Thien😽;+Nice+To+Meet+You😍" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=61DAFB&lines=Hello+Everybody!!!+🙋‍♂️;+I'm+Nguyen+Minh+Thien😊;+Nice+To+Meet+You🤗" />
 </h1>
 
 <h3 align="center"> ✨ A passionate Fullstack Developer from VietNam ✨</h3>
@@ -57,7 +57,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vow130504/vow130504/output/snake-dark.svg" />
